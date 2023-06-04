@@ -5,7 +5,7 @@ This project is created for learning Golang.
 ## Projects
 
 1. card 
- - idea: some small ways to play with card deck
+ - idea: play with card deck
  - purpose: project to learning basic concepts about go
  - detail: 
   + `initDeck` : Create a list of playing cards. Essentially an array of strings
@@ -14,6 +14,10 @@ This project is created for learning Golang.
   + `dealDeck` : Create a 'hand' of cards
   + `saveDeck` : Save a list of cards to a file on the local machine
   + `loadDeck` : Load a list of cards from the local machine
+
+2. odd-even:
+ - idea: identify odd and even numbers
+ - purpose: project to learning basic concepts about go
 
 ## Note
 
