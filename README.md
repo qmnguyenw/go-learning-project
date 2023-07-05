@@ -4,7 +4,11 @@ This project is created for learning Golang.
 
 ## Projects
 
-1. card 
+1. hello-world:
+ - idea: say hello world
+ - purpose: project to learning basic concept - print in go 
+
+2. card:
  - idea: play with card deck
  - purpose: project to learning basic concepts about go
  - detail: 
@@ -15,7 +19,7 @@ This project is created for learning Golang.
   + `saveDeck` : Save a list of cards to a file on the local machine
   + `loadDeck` : Load a list of cards from the local machine
 
-2. odd-even:
+3. odd-even:
  - idea: identify odd and even numbers
  - purpose: project to learning basic concepts about go
 
